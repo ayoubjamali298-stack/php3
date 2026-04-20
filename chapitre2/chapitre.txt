@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+SELECT is used to get data from the database.
+
+In PDO, queries can be executed with query() or prepare()/execute().
+
+Results are retrieved using fetch() or fetchAll().
+
+Loops (foreach / while) are used to display the data.
+
+Data can be shown in a PHP page or an HTML table.
+
+try/catch is used to handle errors.
+
+ Conclusion:
+Use SELECT with PDO to get data from the database and display it in PHP using fetch/fetchAll and loops.

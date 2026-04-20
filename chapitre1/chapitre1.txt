@@ -1,0 +1,11 @@
+This code connects PHP to a MySQL database using PDO.
+
+It defines the connection details: host, port, database name, username, and password.
+
+The try block attempts to create the database connection.
+
+The catch block handles errors if the connection fails.
+
+If the connection works, it displays “Connexion réussie”.
+
+If there is a problem, it shows an error message.
